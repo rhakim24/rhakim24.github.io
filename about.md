@@ -1,4 +1,4 @@
-<h1>Hello World!</h1>
+<h1>About Me!</h1>
 <br>
   <h2>My name is Robiya</h2>
 <img src="me.png" alt="me at Amalfi Coast" style="width:150px;height:190px;"> 
@@ -6,8 +6,9 @@
   <h3>My hobbies:</h3>
   <ul>
     <li>drawing</li>
-    <img src="billieeillish.png" alt="bird" style="width:125px;height:150px;"> 
+    <img src="billieeilish.png" alt="billie eillish" style="width:125px;height:150px;"> 
     <li>painting</li>
+    <img src="painting.png" alt="bird with fruits--frida kahlo" style="width:125px;height:150px;">
     <li>playing with my bird</li>
     <img src="bird2.jpeg" alt="bird" style="width:125px;height:150px;"> 
     <img src="jonny.png" alt="bird" style="width:120px;height:150px;">
