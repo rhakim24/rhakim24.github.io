@@ -11,6 +11,6 @@
     <li>binging shows/movies</li>
     <li>going out with family and friends</li>
   </ul>
-<img src="bird.jpeg" alt="bird" style="width:150px;height:150px;">
+<img src="jonny.png" alt="bird" style="width:120px;height:150px;">
 <img src="bird2.jpeg" alt="bird" style="width:125px;height:150px;">
 <img src="Milan.jpeg" alt="Milan, Italy" style="width:120px;height:150px;">
