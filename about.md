@@ -1,8 +1,15 @@
-
-## Robiya's Page
-
-### about me:
-
-#### Hobbies:
-- drawings
-- 
+<h1>Hello World!</h1>
+<br>
+  <h2>My name is Robiya</h2>
+<img src="images.jpg" alt="Kagome from Inuyasha" style="width:150px;height:150px;"> 
+</br>
+  <h3>My hobbies:</h3>
+  <ul>
+    <li>drawing</li>
+    <li>painting</li>
+    <li>playing with my bird</li>
+    <li>binging shows/movies</li>
+    <li>going out with family and friends</li>
+  </ul>
+<img src="./desktop/Random/Milan.jpeg" alt="Milan, Italy" style="width:150px;height:150px;">
+<img src="./desktop/Random/Jonny.jpeg" alt="Milan, Italy" style="width:150px;height:150px;">
