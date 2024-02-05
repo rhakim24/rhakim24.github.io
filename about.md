@@ -1,3 +1,9 @@
+---
+layout: default
+title: landingpage
+permalink: https://rhakim24.github.io/
+---
+
 <h1>About Me!</h1>
 <br>
   <h2>My name is Robiya</h2>
