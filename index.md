@@ -8,7 +8,7 @@ title: landingpage
   <h2>My name is Robiya</h2>
 <img src="me.png" alt="me at Amalfi Coast" style="width:150px;height:190px;">
 
-this lets us know something changed
+this lets us know something changed change
 
 ![me](me.png)
 
