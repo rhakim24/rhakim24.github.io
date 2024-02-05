@@ -9,6 +9,8 @@ permalink: https://rhakim24.github.io/
   <h2>My name is Robiya</h2>
 <img src="me.png" alt="me at Amalfi Coast" style="width:150px;height:190px;">
 
+this lets us know something changed
+
 ![me](me.png)
 
 </br>
