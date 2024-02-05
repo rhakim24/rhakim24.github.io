@@ -17,7 +17,7 @@ permalink: https://rhakim24.github.io/
     <li>drawing</li>
     <img src="billieeilish.png" alt="billie eillish" style="width:125px;height:150px;"> 
     <li>painting</li>
-    <img src="painting.png" alt="bird with fruits--frida kahlo" style="width:125px;height:150px;">
+    <img src="painting.png" alt="bird with fruits--frida kahlo" style="width:190px;height:150px;">
     <li>playing with my bird</li>
     <img src="bird2.jpeg" alt="bird" style="width:125px;height:150px;"> 
     <img src="jonny.png" alt="bird" style="width:120px;height:150px;">
