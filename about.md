@@ -1,7 +1,7 @@
 ---
 layout: default
 title: landingpage
-permalink: https://rhakim24.github.io/about
+permalink: https://rhakim24.github.io/
 ---
 
 <h1>About Me!</h1>
