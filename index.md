@@ -10,7 +10,7 @@ title: "landingpage"
     <h3>I'm a senior at USN and a super cool web developer. 👩🏻‍💻😎💅</h3>
 
   <h2>My Hobbies!</h2>
-    <h3>I love a variety of things, such as...</h3>
+    <h3>I love a variety of things, such as:</h3>
   <ul>
     <li>drawing</li>
     <img src="billieeilish.png" alt="billie eilish" style="width:125px;height:150px;"> 
