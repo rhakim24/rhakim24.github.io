@@ -6,7 +6,7 @@ title: "landingpage"
 <h1>About Me!</h1>
 <br>
   <h2>My name is Robiya</h2>
-<img src="me.png" alt="me at Amalfi Coast" style="width:150px;height:190px;">
+  <img src="me.png" alt="me at Amalfi Coast" style="width:150px;height:190px;">
 </br>
 
   <h3>My hobbies:</h3>
