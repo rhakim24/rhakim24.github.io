@@ -7,12 +7,8 @@ title: "landingpage"
 <br>
   <h2>My name is Robiya</h2>
 <img src="me.png" alt="me at Amalfi Coast" style="width:150px;height:190px;">
-
-this lets us know something changed change
-
-![me](me.png)
-
 </br>
+
   <h3>My hobbies:</h3>
   <ul>
     <li>drawing</li>
