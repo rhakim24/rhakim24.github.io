@@ -11,9 +11,3 @@ title: "Robiya 2"
         <li>Avatar 1 & 2</li>
     </ul>
 
-<h2>Fav Shows:</h1>
-    <ul>
-        <li>Attack on Titan!!!!</li>
-        <li>Spy x Family</li>
-    </ul>
-
