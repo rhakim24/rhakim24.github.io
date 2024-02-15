@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "landingpage"
+title: "Robiya"
 ---
 
 <h1>About Me!</h1>
