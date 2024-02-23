@@ -21,7 +21,7 @@ title: "Robiya"
     <li>playing with my bird</li>
     <img src="bird2.jpeg" alt="bird" style="width:125px;height:150px;"> 
     <img src="jonny.png" alt="bird" style="width:120px;height:150px;">
-    <h3>This is my beloved Jonny. I'm his favorite person, and we are inseperable. We got him when I was 10 years old, and he will be 9 years old in June!</h3>
+    <h3>This is my beloved Jonny. We got him when I was 10 years old, and he will be 9 years old in June!</h3>
     <li>binging shows/movies</li>
     <img src="images.jpg" alt="Kagome from Inuyasha" style="width:150px;height:150px;"> 
     <h3>Inuyasha was my comfort show during quarantine. I began watching anime in 2019, and my first show was 'Maid-Sama!' I don't watch anime as frequently as before, but some that I'm currently watching are 'Spy x Family' and 'A Sign of Affection.' My favorite genres in general in no particular order are action, horror, psychological, and sometimes romance (depends on the trope, some can be overused/cliche).</h3>
