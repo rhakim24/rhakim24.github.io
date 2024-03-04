@@ -34,5 +34,8 @@ title: "Robiya"
   </ul>
 
 <h2>Updates</h2>
+<ul>
+  <li>Our next project was the API project, and I chose an API key where you could search any European artist and it would show you a randomm artwork of theirs. Getting started was difficult because I had trouble understanding what exactly an API is, but now I have a better idea.</li>
 
+</ul>
 
