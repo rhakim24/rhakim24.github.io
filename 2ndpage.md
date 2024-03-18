@@ -13,7 +13,7 @@
 
 <h1>Fav Shows:</h1>
     <ul>
-        <li>Attack on Titan!!!!</li>
+        <li>Attack on Titan</li>
         <li>Spy x Family</li>
     </ul>
 --!>
