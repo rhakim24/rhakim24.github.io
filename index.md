@@ -45,6 +45,6 @@ title: "Robiya"
 </ul>
 
   <ul>
-  <li>I think I have some idea of what to do now thanks to chatGPT--building a music player using Tkinter and pygame.</li>
+  <li>I think I have some idea of what to do now thanks to brainstorming projects with chatGPT--building a music player using Tkinter and pygame.</li>
 
   </ul>
