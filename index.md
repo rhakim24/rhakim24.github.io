@@ -39,3 +39,12 @@ title: "Robiya"
 
 </ul>
 
+<ul>
+  <li>After the API project, our next goal was to make our own graphics/webtool. I had lots of trouble trying to understand what that is and how programmers use them. I also didn't understand what kind of projects could be done with these webtools.</li>
+
+</ul>
+
+  <ul>
+  <li>I think I have some idea of what to do now thanks to chatGPT--building a music player using Tkinter and pygame.</li>
+
+  </ul>
